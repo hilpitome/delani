@@ -1,4 +1,7 @@
 .welcome {
-  background-image: url("/home/hilary/Documents/gen-workspace/html/assignment instructions/delani/assets/backgrounds/h_img.jpg");
-  height: 700px;
+  background-image: url("/home/hilary/Documents/gen-workspace/html/assignment instructions/delani/assets/backgrounds/first.jpg");
+  height: 600px;
+  text-align: center;
+  color: white;
+  padding-top: 115px;
 }
