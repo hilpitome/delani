@@ -5,3 +5,11 @@
   color: white;
   padding-top: 115px;
 }
+ #mouse{
+   padding-top: 70px;
+ }
+ .about{
+   text-align: center;
+   padding-top: 100px;
+   height: 300px;
+ }
